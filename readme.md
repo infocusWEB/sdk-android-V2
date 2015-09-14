@@ -31,6 +31,21 @@ Change Log
 
 Conteúdo:
 
+<i><b>v2.0.3</b></i>
+* [!] Hotfix nos tipos de conexão;
+* [!] Correções e melhorias na Demo;
+* [+] Documentação na pasta [/doc/](https://github.com/stone-pagamentos/sdk-android-V2/tree/master/doc);
+* [+] Demo utilizando o Android Studio;
+* [+] Demo - exemplo do DisplayMessageProvider;
+
+
+<i><b>v2.0.2</b></i>
+* [!] Hotfix na impressão com Ingenico (Logo da Stone);
+* [!] Melhores tratamentos no bluetooth;
+* [!] Melhorias na impressão (tratamentos para status diferente de 00);
+* [&] Correções na Demo (Extra)
+
+
 <i><b>v2.0.1</b></i>
 * [!] Hotfix no QR Code com Pinpads da Ingenico;
 * [!] Pequenas correções na transação (update na coluna 'request_id' da transação);
